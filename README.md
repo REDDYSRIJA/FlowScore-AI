@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # NitroStack Starter Template
 
 Minimal template for learning NitroStack fundamentals with a calculator-focused
@@ -51,4 +50,3 @@ development.
 =======
 # FlowScore-AI
 AI Micro-Credit Cash Flow Underwriting Platform for Gig Workers
->>>>>>> 40dbae0dbdb403c9a2eef0ca14c29f5ecfa1ead0
